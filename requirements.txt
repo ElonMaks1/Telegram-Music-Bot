@@ -1,0 +1,5 @@
+requests>=2.20.0
+pydub>=0.25.1
+telethon>=1.24.0
+yandex-music>=1.0.0
+pytgcalls>=0.2.0
